@@ -22,7 +22,8 @@ firebaseConfig = {
 ```
 ### Python Library
 
-* You can install pyrebase easily by ```pip install pyrebase```
+ ```pip install pyrebase```
+ 
 * in case of error try to upgrade some Librarys.
 ```
 pip install -U setuptools
