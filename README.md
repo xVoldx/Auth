@@ -1,2 +1,2 @@
-# Auth-
+# Auth
 User Authentication System
